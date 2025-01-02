@@ -7,3 +7,8 @@ gem "deep_merge"
 gem "jekyll-open-sdg-plugins", "2.3.0"
 gem "kramdown-parser-gfm"
 gem "webrick"
+gem "csv"
+gem "logger"
+gem "base64"
+gem "bigdecimal"
+
