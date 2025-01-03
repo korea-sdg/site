@@ -195,7 +195,11 @@ menu:
   - path: /about
     translation_key: menu.about
     dropdown: []
+<<<<<<< HEAD
 metadata_edit_url: 'https://korea-sdg.github.io/data/'
+=======
+metadata_edit_url: metadata
+>>>>>>> c87093638f12116994a6041040c27e1bbc9d7cf7
 metadata_tabs:
   - scope: national
     title: indicator.national_metadata
