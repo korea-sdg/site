@@ -46,7 +46,7 @@ create_pages:
 custom_css: []
 custom_js:
   - /assets/js/custom.js
-data_edit_url: data
+data_edit_url: https://github.com/korea-sdg/data/blob/develop/data/indicator_1-1-1.csv
 data_fields:
   units: ''
   series: ''
